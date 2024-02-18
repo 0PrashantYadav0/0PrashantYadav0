@@ -2,12 +2,13 @@
 
 ###
 
+<img height="200" src="https://github.com/0PrashantYadav0/0PrashantYadav0/assets/144602492/475e30ea-14fd-4a93-8255-f9a26b106afb"  />
 
 ###
 
 <br clear="both">
 
-<img src="https://github.com/0PrashantYadav0/0PrashantYadav0/assets/144602492/475e30ea-14fd-4a93-8255-f9a26b106afb" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/0PrashantYadav0/0PrashantYadav0/output/snake.svg" alt="Snake animation" />
 
 ###
 
