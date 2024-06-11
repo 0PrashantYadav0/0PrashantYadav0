@@ -1,4 +1,4 @@
-<h2 align="left">👋 Welcome to my GitHub!<br><br>🚀 I'm a versatile coder fluent in Rust, Python, MERN, and Web3. From high-performance algorithms to dynamic web apps and blockchain exploration, I'm all about pushing boundaries.<br><br>💻 Explore my projects, dive into the code, and let's innovate together. Connect with me for collaboration opportunities!<br><br>Happy coding! 💻✨</h2>
+<h2 align="left">👋 Welcome to my GitHub!<br><br>🚀 I'm a versatile coder. From high-performance algorithms to dynamic web apps and blockchain exploration, I'm all about pushing boundaries.<br><br>💻 Explore my projects, dive into the code, and let's innovate together. Connect with me for collaboration opportunities!<br><br>Happy coding! 💻✨</h2>
 
 ###
 
