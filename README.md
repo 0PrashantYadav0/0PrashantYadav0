@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar Yadav</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<div>
-   <img height="120" src="https://github.com/0PrashantYadav0/0PrashantYadav0/assets/144602492/475e30ea-14fd-4a93-8255-f9a26b106afb" align="left" />
-
-  <div align="right">
-    
-  - 🌱 I’m currently learning **Web dev, DevOps and DSA**
-
-  - 💬 Ask me about **React, Nextjs,Bun, Hono, Express, Nodejs, Flask, FastApi, Django, Javascript, Python, Docker, etc...**
-
-   </div>
-</div>
-
 ###
 
 <br clear="both">
