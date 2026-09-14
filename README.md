@@ -41,24 +41,8 @@ I am an AI-native developer who builds agentic systems and microservice architec
 
 ## Tech stack
 
-<img src="https://skillicons.dev/icons?i=go,py,ts,js,java,cpp,c,bash,wasm,react,nextjs,nodejs,express,spring,django,fastapi,tailwind,graphql,htmx,bun,postgres,mysql,mongodb,redis,sqlite,supabase,firebase,prisma,kafka,nginx,docker,kubernetes,githubactions,jenkins,aws,azure,vercel,prometheus,grafana,linux,git,vite&perline=14" alt="Go, Python, TypeScript, JavaScript, Java, C++, C, Bash, WebAssembly, React, Next.js, Node.js, Express, Spring, Django, FastAPI, Tailwind, GraphQL, HTMX, Bun, PostgreSQL, MySQL, MongoDB, Redis, SQLite, Supabase, Firebase, Prisma, Kafka, Nginx, Docker, Kubernetes, GitHub Actions, Jenkins, AWS, Azure, Vercel, Prometheus, Grafana, Linux, Git, Vite">
+<img src="https://skillicons.dev/icons?i=go,py,ts,js,java,cpp,c,bash,wasm,react,nextjs,nodejs,express,spring,django,fastapi,tailwind,graphql,htmx,bun,postgres,mysql,mongodb,redis,sqlite,supabase,firebase,prisma,kafka,nginx,docker,kubernetes,githubactions,jenkins,aws,azure,vercel,prometheus,grafana,linux,git,vite&perline=18" alt="Go, Python, TypeScript, JavaScript, Java, C++, C, Bash, WebAssembly, React, Next.js, Node.js, Express, Spring, Django, FastAPI, Tailwind, GraphQL, HTMX, Bun, PostgreSQL, MySQL, MongoDB, Redis, SQLite, Supabase, Firebase, Prisma, Kafka, Nginx, Docker, Kubernetes, GitHub Actions, Jenkins, AWS, Azure, Vercel, Prometheus, Grafana, Linux, Git, Vite">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
-  <img alt="" src="assets/rule-light.svg" width="100%">
-</picture>
-
-## Highlights
-
-- Four-time hackathon winner: overall winner at the GenTech Thales Hackathon, podium finishes at Techkriti IIT Kanpur (twice) and the SuperMove dAppthon, and a global top 11 at the Walmart Sparkathon.
-- Contributor at [stdlib-js](https://github.com/stdlib-js/stdlib), the standard library for JavaScript, with 160+ merged pull requests.
-- Lately building useful software for developers and vibe coders: agent observability, natural-language telemetry queries, and a RAG chatbot that answers for me.
-- Coordinator of the Web Wing and senior member of the FOSS Wing at AXIOS, IIIT Lucknow's technical society.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
-  <img alt="" src="assets/rule-light.svg" width="100%">
-</picture>
 
 ## GitHub
 
