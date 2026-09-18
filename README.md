@@ -22,7 +22,7 @@
 
 # hi, prashant here 👋
 
-**AI Engineer / Developer** &middot; India
+**AI Engineer / Developer**
 
 ### Code, Create, and Conquer.
 
@@ -34,10 +34,6 @@ I am an AI-native developer who builds agentic systems and microservice architec
 
 <p align="center"><img src="https://count.getloli.com/@:0PrashantYadav0" alt="Profile views" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
-  <img alt="" src="assets/rule-light.svg" width="100%">
-</picture>
 
 ## Tech stack
 
@@ -53,7 +49,7 @@ I am an AI-native developer who builds agentic systems and microservice architec
   </picture>
 </a></p>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0PrashantYadav0/0PrashantYadav0/output/snake.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/0PrashantYadav0/0PrashantYadav0/output/snake-light.svg" width="100%">
 </picture>
@@ -61,9 +57,9 @@ I am an AI-native developer who builds agentic systems and microservice architec
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
   <img alt="" src="assets/rule-light.svg" width="100%">
-</picture>
+</picture> -->
 
-Everything else, including all my projects and Dev Senpai, the chatbot that answers questions about my work, lives at [prashantyadav.vercel.app](https://prashantyadav.vercel.app).
+<!-- Everything else, including all my projects and Dev Senpai, the chatbot that answers questions about my work, lives at [prashantyadav.vercel.app](https://prashantyadav.vercel.app). -->
 
-> *Talk is cheap. Show me the code* -
-> Linus Torvalds
+> *Everyone is a slave to something.* -
+> askeladd
