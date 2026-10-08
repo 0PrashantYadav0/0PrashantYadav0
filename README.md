@@ -59,7 +59,7 @@ I am an AI-native developer who builds agentic systems and microservice architec
   <img alt="" src="assets/rule-light.svg" width="100%">
 </picture> -->
 
-<!-- Everything else, including all my projects and Dev Senpai, the chatbot that answers questions about my work, lives at [prashantyadav.vercel.app](https://prashantyadav.vercel.app). -->
+Everything else, including all my projects and Dev Senpai, the chatbot that answers questions about my work, lives at [prashantyadav.vercel.app](https://prashantyadav.vercel.app).
 
 > *Everyone is a slave to something.* -
 > askeladd
